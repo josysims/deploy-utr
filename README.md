@@ -1,1 +1,3 @@
-# deploy-utr
+# maven-project
+
+Simple Maven Project
